@@ -30,5 +30,10 @@ python facebook_auto_dm.py
 ```
 9. The program will start sending the messages. Do not close or click anything.
 10. Done!
+11. To close the application, go to /Scripts and deactivate
+```
+cd Scripts
+deactivate
+```
 
 Please feel free to give some stars~ :sparkles:
