@@ -9,3 +9,21 @@ git clone https://github.com/punchkorea/facebook-messanger
 2. Change **message.txt** by writing your personal message to be sent.
 3. Change the credentials in **utils/creds.py** (FB username and password).
 4. Put the receiver URLs in **profile_urls.txt** file.
+5. Open command line and go the the /Scripts folder.
+```
+cd C:\Users\YOUR ENVIRONMENT\Downloads\auto-dm\Scripts
+```
+6. Activate the program
+```
+activate
+```
+7. Go back to main folder (where the facebook_auto_dm.py file is located)
+```
+cd ..
+```
+8. Run python file.
+```
+python facebook_auto_dm.py
+```
+9. The program will start sending the messages. Do not close or click anything.
+10. Done!
