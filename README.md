@@ -1,4 +1,4 @@
-# facebook-messanger
+# facebook-messenger
 This application automates sending messages using Facebook. It needs sender user credentials, receiver user IDs, python and other dependencies mentioned in the repository.
 Limitation: 60 messages per usage (due to Facebook safety regulations).
 
